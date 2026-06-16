@@ -14,10 +14,6 @@ This Power BI dashboard analyzes Amazon product data to uncover insights about:
 - Data Modeling
 - Data Visualization
 
-## Dashboard Preview
-
-![Dashboard](Dashboard_Screenshot.png)
-
 ## Key Insights
 
 - Home & Kitchen contains the highest number of products.
